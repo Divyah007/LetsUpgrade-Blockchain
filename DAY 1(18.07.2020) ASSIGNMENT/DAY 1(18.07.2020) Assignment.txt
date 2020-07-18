@@ -1,0 +1,71 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+                                                              DAY 1 (18/07/2020) ASSIGNMENT
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 1: 
+What is your understanding of Blockchain?
+Answer:
+  
+• Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat 
+the system.
+• A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of
+ computer systems on the blockchain.
+• Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain,
+ a record of that transaction is added to every participant’s ledger.
+• Blockchain technology is not a company, nor is it an app, but rather an entirely new way of documenting data on the
+ internet.
+• The technology can be used to develop blockchain applications, such as social networks, messengers, games, exchanges, storage platforms, voting systems, prediction markets, online shops and much more.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 2:
+What is the core problem Blockchain trying to solve?
+Answer:
+
+Following are some of the core problems that the Blockchain is trying to solve,
+• Currency and Transaction Support
+• Supply Chains and Item Histories
+• Voting
+• Government Operations
+• Intellectual Property
+• Industry's Banking and Logistics Issues
+• Cloud Storage, etc..,
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 3:
+What are the few features which Blockchain will give you?
+Answer:
+
+Following are some of the features of the Blockchain,
+• Cannot be Corrupted
+• Decentralized Technology
+• Enhanced Security
+• Distributed Ledgers
+• Consensus
+• Faster Settlement
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 4:
+What all things does a Block contain?
+Answer:
+
+The Block contains the following,
+• Block number
+• Transaction records
+• Previous block's signature
+• Mining key
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 5:
+How is the verifiability of Blockchain has been attained?
+Answer:
+
+• On the blockchain, the process of transaction verification and recording is immediate and permanent.
+• The ledger is distributed across several nodes, meaning the data is replicated and stored instantaneously on each node 
+across the system.
+• When a transaction is recorded in the blockchain, details of the transaction such as price, asset, and ownership, are
+ recorded, verified and settled within seconds across all nodes. 
+•  A verified change registered on any one ledger is also simultaneously registered on all other copies of the ledger. 
+• Since each transaction is transparently and permanently recorded across all ledgers, open for anyone to see, there is no 
+need for third-party verification.
+
+
