@@ -1,0 +1,16 @@
+
+
+1) STUDENT 1:
+The test deployment of the smart contract Report Card for Student 1 can be found at 0x8b6d7642f0d403fac80ae74aac923ffc770bb75f
+in https://ropsten.etherscan.io/tx/0xa91ebcf4d3be41b0e4d4775952563b6bff4344b486cfccd5e646e6fcf13f1cf1
+
+
+
+2) STUDENT 2:
+The test deployment of the smart contract Report Card for Student 2 can be found at 0xd0627f1ea597621913aef859ce0fe5c6c41cf57e
+in https://ropsten.etherscan.io/tx/0xf8e2a18df16c9eb2ce6435afd9cf6b7da3a7519d81585cacc26345c6962461d9
+
+
+3) STUDENT 3:
+The test deployment of the smart contract Report Card for Student 3 can be found at 0x2272e0d7efee97457cfa7962b5a9d815bc9c4c91
+in https://ropsten.etherscan.io/tx/0x9c4ca6f62a3c9b74e717b98f4e39dc99a182b4f30b6c71bad70bae62260998ef
